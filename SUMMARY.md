@@ -79,6 +79,17 @@
 - [7.1 多 Agent 配置（Profiles）](./chapters/ch07-advanced/profiles.md)
 - [7.2 API Server](./chapters/ch07-advanced/api-server.md)
 
+### [第八章：实战指南与最佳实践](./chapters/ch08-guides/README.md)
+- [8.0 章节概述](./chapters/ch08-guides/README.md#章节结构)
+- [8.1 Tips & Best Practices](./chapters/ch08-guides/tips-best-practices.md)
+- [8.2 Work with Skills](./chapters/ch08-guides/work-with-skills.md)
+- [8.3 Delegation Patterns](./chapters/ch08-guides/delegation-patterns.md)
+- [8.4 Automation Patterns](./chapters/ch08-guides/automation-patterns.md)
+- [8.5 Integrations](./chapters/ch08-guides/integrations.md)
+- [8.6 GitHub Integrations](./chapters/ch08-guides/github-integrations.md)
+- [8.7 Cloud Deployments](./chapters/ch08-guides/cloud-deployments.md)
+- [8.8 Migration Guide](./chapters/ch08-guides/migration-guide.md)
+
 ---
 
 ## 学习路径推荐
@@ -90,6 +101,9 @@
 进阶路径：
 第四章（完整）→ 第五章（多平台）→ 第六章（自动化）→ 第七章（高级）
 
+实战路径：
+第四章（完整）→ 第六章（自动化）→ 第八章（实战指南）
+
 开发者路径：
-第四章（MCP）→ 第七章（API Server）→ 自定义扩展开发
+第四章（MCP）→ 第七章（API Server）→ 第八章（插件开发）→ 自定义扩展开发
 ```
